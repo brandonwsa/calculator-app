@@ -9,3 +9,9 @@
 
 ## To see code I did, go to:
 https://github.com/brandonwsa/calculator-app/tree/main/Calculator/app/src/main/java/com/app/calculator
+
+## Screenshots
+![Screenshot 1](https://github.com/brandonwsa/calculator-app/blob/main/Calculator/screenshots/SS1.PNG)
+![Screenshot 2](https://github.com/brandonwsa/calculator-app/blob/main/Calculator/screenshots/SS2.PNG)
+![Screenshot 3](https://github.com/brandonwsa/calculator-app/blob/main/Calculator/screenshots/SS3.PNG)
+![Screenshot 4](https://github.com/brandonwsa/calculator-app/blob/main/Calculator/screenshots/SS4.PNG)
